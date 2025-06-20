@@ -1,22 +1,21 @@
 # SkidBase
 
-This is a roblox exploit base, originally written by XMSW (@xmsw_ on discord) & Zsim (@zsimulators on discord), re-written by Kito (@kitodoescode on discord).
+This is a roblox exploit base built from the leaked "Arctic-Internal" source, functions were added from scratch along with the tphandler.
 
 ## Some Info
 
-- 40 UNC
-- loadstring
-- getscriptbytecode
-- Entire Debug Library (thx to @blud_wtf for "getproto" & "getprotos")
+- v1.0.1
+- 26 sUNC
+- 80 UNC (disabled/commented out till further development, thus making it around 28 UNC)
 
 ## Script Execution
 
-To send a script you can use a method like following in c#:
+To send a script you can use a method like following in C#:
 ```csharp
 private static async void SendScript(string source)
 {
-    string ipaddr = "127.0.0.1"; // default ip in the module
-    int port = 0007; // default port in the module
+    string ipaddr = "127.0.0.1";
+    int port = 0007; // port in the module
 
     try
     {
