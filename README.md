@@ -6,7 +6,7 @@ This is a roblox exploit base built from the leaked "Arctic-Internal" source, fu
 
 - v1.0.1
 - 26 sUNC
-- 80 UNC (disabled/commented out till further development, thus making it around 28 UNC)
+- 80 UNC (disabled/commented out till further development, thus making it 35 UNC)
 - Stable TPHandler
 
 ## Script Execution
