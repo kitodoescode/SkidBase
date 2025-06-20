@@ -10,6 +10,9 @@ This is a roblox exploit base built from the leaked "Arctic-Internal" source, fu
 - 80 UNC (disabled/commented out till further development, thus making it 35 UNC)
 - Stable TPHandler
 
+## Note
+Right click the "lib.rar" in Dependencies/cryptopp and do "Extract here".
+
 ## Script Execution
 
 To send a script you can use a method like following in C#:
