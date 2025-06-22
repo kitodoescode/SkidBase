@@ -46,6 +46,5 @@ private static async void SendScript(string source)
 
 # Credits
 
-- Original Base: @xmsw_ & @zsimulators (discord)
-- Remake: @kitodoescode (discord)
-- "getproto" & "getprotos": @blud_wtf (discord)
+- @kitodoescode: Main Code
+- @blud_wtf: Help with TPHandler & other stuff
